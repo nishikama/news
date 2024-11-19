@@ -9,7 +9,7 @@
 		"azure-cognitiveservices-newssearch": "^2.0.0",
 		"bootstrap": "^4.5.0",
 		"browserlist": "^1.0.1",
-		"firebase": "^7.15.0",
+		"firebase": "^10.9.0",
 		"jquery": "^3.5.1",
 		"ms-rest-azure": "^3.0.0",
 		"popper": "^1.0.1",
